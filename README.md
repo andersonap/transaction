@@ -84,6 +84,7 @@ mvn test
 ## Melhorias Futuras
 
 - **Autenticação e Autorização**: Implementar OAuth2 ou JWT para proteger os endpoints da API.
+- **Tratamento de Request e Response**: Adicionar validações para os dados enviados na request da API, além de adequar o response para retornar os status HTTP corretos (e não somente 200 OK).
 - **Integração com Mensageria**: Adicionar suporte a filas, como AWS SQS, para processamento assíncrono de transações.
 - **Cache**: Implementar mecanismos de cache para otimizar consultas de saldos e transações frequentes.
 - **Melhorar os logs**: Adicionar logs mais detalhados para melhor rastreamento de problemas em produção.
