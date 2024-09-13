@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico. Trata-se de uma
 - [Instalação e Execução](#instalação-e-execução)
 - [Testes Automatizados](#testes-automatizados)
 - [Melhorias Futuras](#melhorias-futuras)
-- [L4 - Transações simultâneas](#L4-transações-simultâneas)
+- [L4 - Transações simultâneas](#l4---transações-simultâneas)
 
 ## Descrição
 
