@@ -28,7 +28,7 @@ A **Transaction API** é uma aplicação baseada em microserviços, construída 
 
 ## Tecnologias Utilizadas
 
-- **Java 17**: Linguagem principal do projeto.
+- **Java 22**: Linguagem principal do projeto.
 - **Spring Boot**: Framework para a construção da API.
 - **Spring Data JPA**: Abstração para acesso ao banco de dados.
 - **H2 Database**: Banco de dados em memória utilizado para fins de teste e desenvolvimento.
@@ -43,7 +43,7 @@ A **Transaction API** é uma aplicação baseada em microserviços, construída 
 
 Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
 
-- [JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+- [JDK 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
 - [Maven](https://maven.apache.org/download.cgi)
 - [Git](https://git-scm.com/)
 
